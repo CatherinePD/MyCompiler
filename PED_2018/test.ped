@@ -1,0 +1,49 @@
+int function MyFun(int a, int b)
+{
+type int c;
+c = 7*(a+b)-a/0+1;
+return c;
+}
+
+int function clear()
+{
+type int c;
+c = 10;
+return c;
+}
+
+string function Back(string str)
+{
+type string me;
+me = str;
+me = 'Привет!';
+output(me);
+return str;
+}
+
+main
+{
+EMatLib;
+type int x;
+type int y;
+x = 2;
+y = 12;
+type int result;
+result = MyFun(x,y);
+output(result);
+type int c;
+c = clear() + result + 1;
+output(c);
+type string space;
+space = ' ';
+type string phrase;
+phrase = 'Compiler';
+space = Back(phrase);
+output(space);
+y = power(5, x);
+output(y);
+type int zap;
+zap = 3*(5-2)+3/6;
+x = root(zap);
+output(x);
+}

@@ -1,0 +1,22 @@
+﻿  stdafx.cpp
+  Error.cpp
+  FST.cpp
+FST.cpp(67): warning C4018: <: несоответствие типов со знаком и без знака
+  Generation.cpp
+  GraibachRules.cpp
+  IT.cpp
+  In.cpp
+  LT.cpp
+  LexAnalize.cpp
+  Log.cpp
+  MFST.cpp
+MFST.cpp(219): warning C4267: =: преобразование из "size_t" в "short"; возможна потеря данных
+  PED_2018.cpp
+  PN.cpp
+  Parm.cpp
+  Создание кода
+  4 of 673 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    3 functions were new in current compilation
+    19 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  PED_2018.vcxproj -> E:\2nd course\3rd sem\LP\Course project\PED-2018\Release\PED_2018.exe

@@ -1,0 +1,19 @@
+﻿  stdafx.cpp
+  Parm.cpp
+  PN.cpp
+  PED_2018.cpp
+  MFST.cpp
+e:\2nd course\3rd sem\lp\course project\ped-2018\ped_2018\mfst.cpp(219): warning C4267: =: преобразование из "size_t" в "short"; возможна потеря данных
+  Log.cpp
+  LexAnalize.cpp
+  LT.cpp
+  In.cpp
+  IT.cpp
+  GraibachRules.cpp
+  Generation.cpp
+  FST.cpp
+e:\2nd course\3rd sem\lp\course project\ped-2018\ped_2018\fst.cpp(67): warning C4018: <: несоответствие типов со знаком и без знака
+  Error.cpp
+  Создание кода...
+  PED_2018.vcxproj -> E:\2nd course\3rd sem\LP\Course project\PED-2018\Debug\PED_2018.exe
+  PED_2018.vcxproj -> E:\2nd course\3rd sem\LP\Course project\PED-2018\Debug\PED_2018.pdb (Partial PDB)
